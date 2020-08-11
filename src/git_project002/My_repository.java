@@ -7,7 +7,9 @@ public class My_repository {
 		System.out.println("git push -u origin master denemesi");
 		System.out.println("git add . / git commit -m  message proje stage area tasimadan ");
 		System.out.println("transefer");
-		
+		System.out.println("remote changes");
+		System.out.println("local changes2");
+
 	}
 
 }
