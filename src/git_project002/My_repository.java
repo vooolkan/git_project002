@@ -14,7 +14,7 @@ public class My_repository {
 
 		System.out.println("bir satir farkli");
 
-		System.out.println("conflict");
+		System.out.println("conflictuyghghh");
 		System.out.println("remote changes2fdfdsfs");
 		
 		System.out.println("ilave code");
