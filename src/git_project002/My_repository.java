@@ -10,6 +10,7 @@ public class My_repository {
 		System.out.println("remote changes");
 		System.out.println("local changes2");
 		
+		System.out.println("bir satir değişiklik");
 		System.out.println("conflict");
 		System.out.println("remote changes2fdfdsfs");
 		
