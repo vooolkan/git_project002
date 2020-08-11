@@ -3,7 +3,7 @@ package git_project002;
 public class My_repository {
 
 	public static void main(String[] args) {
-		system.out.println(" in the remote repository");
+		System.out.println(" in the remote repository");
 		
 
 	}
