@@ -9,7 +9,7 @@ public class My_repository {
 		System.out.println("transefer");
 		System.out.println("remote changes");
 		System.out.println("local changes2");
-		System.out.println("remote changes2");
+		System.out.println("remote changes2fdfdsfs");
 	}
 
 }
